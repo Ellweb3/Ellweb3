@@ -78,13 +78,23 @@ flowchart TD
 <tr>
 <td width="600">
 
-**[agent-orchestrator](https://github.com/Ellweb3/agent-orchestrator)** — Open-source system for orchestrating parallel AI coding agents
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ellweb3/cadforge/main/docs/logo.png" width="120" alt="CadForge" />
+</p>
 
-- Agent-agnostic: Claude Code, Codex, Aider, OpenCode
-- Runtime-agnostic: tmux, Docker, k8s
-- Tracker-agnostic: GitHub, Linear, Jira
-- Next.js 15 dashboard + CLI
-- **Core principle: Push, not pull.** Spawn agents, walk away, get notified when your judgment is needed.
+**[CadForge](https://github.com/Ellweb3/cadforge)** — Modular CAD framework built on FreeCAD with AI integration
+
+- Headless builds via FreeCADCmd subprocess
+- React + three.js browser viewer with hot reload
+- Sun simulation with NOAA solar positioning + real-time shadows
+- Fly mode (WASD), layer groups, object picking
+- Texture support with automatic UV mapping
+- MCP server for AI-driven CAD automation
+- Python modules → STL → glTF/GLB pipeline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ellweb3/cadforge/main/docs/screenshot.png" width="560" alt="CadForge Viewer" />
+</p>
 
 </td>
 </tr>
