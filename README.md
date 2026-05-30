@@ -70,7 +70,7 @@ flowchart TD
 
 <div align="center">
 
-### Featured Project
+### Featured Projects
 
 </div>
 
@@ -95,6 +95,32 @@ flowchart TD
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ellweb3/cadforge/main/docs/screenshot.png" width="560" alt="CadForge Viewer" />
 </p>
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="600">
+
+<p align="center">
+  <img src="https://flagcdn.com/w120/uy.png" width="92" alt="uruguay-mcp" />
+</p>
+
+**[uruguay-mcp](https://github.com/Ellweb3/uruguay-mcp)** — MCP server giving AI agents structured access to Uruguay's open government data
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/uruguay-mcp?color=58A6FF&label=PyPI" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7C3AED" />
+  <img src="https://img.shields.io/badge/49%20tools-10%20modules-brightgreen" />
+</p>
+
+- Meta-discovery layer: 5 meta-tools fronting 49 data tools across 10 modules
+- Sources: national CKAN catalog, BCU (cotizaciones), INE, Montevideo (CKAN + realtime transport), ACCE procurement (OCDS), IMPO legislation, INUMET weather, Parlamento
+- 29 prompts · 19 resources · cross-source SQLite SQL JOINs
+- `uvx uruguay-mcp` · auto-published to PyPI via GitHub Actions Trusted Publishing
+- 129 tests · 88% coverage · ruff + pyright clean · bilingual EN/ES docs
 
 </td>
 </tr>
