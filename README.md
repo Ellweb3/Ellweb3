@@ -105,7 +105,7 @@ flowchart TD
 <td width="600">
 
 <p align="center">
-  <img src="https://flagcdn.com/w120/uy.png" width="92" alt="uruguay-mcp" />
+  <img src="https://flagcdn.com/w160/uy.png" width="92" alt="uruguay-mcp" />
 </p>
 
 **[uruguay-mcp](https://github.com/Ellweb3/uruguay-mcp)** — MCP server giving AI agents structured access to Uruguay's open government data
