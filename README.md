@@ -132,8 +132,8 @@ flowchart TD
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ellweb3&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellweb3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ellweb3&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ellweb3&theme=github_dark" width="49%" />
 
 <br/>
 
